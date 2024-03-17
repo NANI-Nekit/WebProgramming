@@ -12,10 +12,10 @@
 ### the basic concept of back-end development
 ### programming microcontrollers
 ## SOFTWARE SKILLS
-### Arduino IDE
-### Eclipse
-### Visual Studio / VS Code
-### Arduino IDE
-### ERP Systems
-### Android Studio
-### Unity
+[x] Arduino IDE
+[x] Eclipse
+[x] Visual Studio / VS Code
+[x] Arduino IDE
+[x] ERP Systems
+[x] Android Studio
+[x] Unity
