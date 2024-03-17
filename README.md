@@ -3,10 +3,11 @@
 ***
 ## ABOUT ME
 ### A novice specialist in the field of back end development  motivated to develop his skills in this field  and work on projects designed to improve the daily life of society
+![Image]()
 ***
 ## KNOWLEDGE AND PROGRESS
- [x] completed lyceum of BRU
- [x] studying at the bru
+- [x] completed lyceum of BRU
+- [x] studying at the bru
 - [x] the basic concept of back-end development
 - [x] programming microcontrollers
 ## SOFTWARE SKILLS
@@ -17,3 +18,6 @@
 + ERP Systems
 + Android Studio
 + Unity
+### MY CONTACTS
+[E-mail](https://mail.google.com/mail/u/0/#search/nikitakosmochev957%40gmail.com)
+
