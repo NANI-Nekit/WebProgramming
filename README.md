@@ -7,15 +7,15 @@
 ### and work on projects designed to improve the daily life of society
 ***
 ## KNOWLEDGE AND PROGRESS
-### completed lyceum of BRU
-### studying at the bru
-### the basic concept of back-end development
-### programming microcontrollers
+- [x] completed lyceum of BRU
+- [x] studying at the bru
+- [x] the basic concept of back-end development
+- [x] programming microcontrollers
 ## SOFTWARE SKILLS
-- [x] Arduino IDE
-- [x] Eclipse
-- [x] Visual Studio / VS Code
-- [x] Arduino IDE
-- [x] ERP Systems
-- [x] Android Studio
-- [x] Unity
++ Arduino IDE
++ Eclipse
++ Visual Studio / VS Code
++ Arduino IDE
++ ERP Systems
++ Android Studio
++ Unity
