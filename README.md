@@ -19,6 +19,41 @@
 + ERP Systems
 + Android Studio
 + Unity
+## Example of Code
+```
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.Write("операция факториал\nвведите число N = ");
+                uint n = Convert.ToUInt32(Console.ReadLine());
+                uint result = n;
+                ReturnFuctorial(ref n, ref result);
+                Console.WriteLine("N! = " + result);
+                Console.WriteLine("1 - повторить\n2 - выход");
+                string s = Console.ReadLine();
+                switch (s)
+                {
+                    case "1":break;
+                    case "2":return;
+                }
+            }
+        }
+        static void ReturnFuctorial(ref uint n, ref uint result)
+        {
+            if (n != 0)
+            {
+                n--;
+                result *= n;
+                while (n - 1 != 0)
+                {
+                    ReturnFuctorial(ref n, ref result);
+                }
+            }
+            else result = 1;
+        }
+```
 ### MY CONTACTS
 [E-mail](https://mail.google.com/mail/u/0/#search/nikitakosmochev957%40gmail.com)
 
